@@ -1,0 +1,32 @@
+C:\Users\jcwt2\source\repos\week1TaskA\week1TaskA\bin\Debug\netcoreapp3.1\week1TaskA.exe
+C:\Users\jcwt2\source\repos\week1TaskA\week1TaskA\bin\Debug\netcoreapp3.1\week1TaskA.deps.json
+C:\Users\jcwt2\source\repos\week1TaskA\week1TaskA\bin\Debug\netcoreapp3.1\week1TaskA.runtimeconfig.json
+C:\Users\jcwt2\source\repos\week1TaskA\week1TaskA\bin\Debug\netcoreapp3.1\week1TaskA.runtimeconfig.dev.json
+C:\Users\jcwt2\source\repos\week1TaskA\week1TaskA\bin\Debug\netcoreapp3.1\week1TaskA.dll
+C:\Users\jcwt2\source\repos\week1TaskA\week1TaskA\bin\Debug\netcoreapp3.1\week1TaskA.pdb
+C:\Users\jcwt2\source\repos\week1TaskA\week1TaskA\obj\Debug\netcoreapp3.1\week1TaskA.csproj.AssemblyReference.cache
+C:\Users\jcwt2\source\repos\week1TaskA\week1TaskA\obj\Debug\netcoreapp3.1\week1TaskA.Form1.resources
+C:\Users\jcwt2\source\repos\week1TaskA\week1TaskA\obj\Debug\netcoreapp3.1\week1TaskA.csproj.GenerateResource.cache
+C:\Users\jcwt2\source\repos\week1TaskA\week1TaskA\obj\Debug\netcoreapp3.1\week1TaskA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcwt2\source\repos\week1TaskA\week1TaskA\obj\Debug\netcoreapp3.1\week1TaskA.AssemblyInfoInputs.cache
+C:\Users\jcwt2\source\repos\week1TaskA\week1TaskA\obj\Debug\netcoreapp3.1\week1TaskA.AssemblyInfo.cs
+C:\Users\jcwt2\source\repos\week1TaskA\week1TaskA\obj\Debug\netcoreapp3.1\week1TaskA.csproj.CoreCompileInputs.cache
+C:\Users\jcwt2\source\repos\week1TaskA\week1TaskA\obj\Debug\netcoreapp3.1\week1TaskA.dll
+C:\Users\jcwt2\source\repos\week1TaskA\week1TaskA\obj\Debug\netcoreapp3.1\week1TaskA.pdb
+C:\Users\jcwt2\source\repos\week1TaskA\week1TaskA\obj\Debug\netcoreapp3.1\week1TaskA.genruntimeconfig.cache
+C:\Users\jcwt2\OneDrive\Desktop\Alg and data structures\ExerciseWeek1_2\TaskA\week1TaskA\bin\Debug\netcoreapp3.1\week1TaskA.exe
+C:\Users\jcwt2\OneDrive\Desktop\Alg and data structures\ExerciseWeek1_2\TaskA\week1TaskA\bin\Debug\netcoreapp3.1\week1TaskA.deps.json
+C:\Users\jcwt2\OneDrive\Desktop\Alg and data structures\ExerciseWeek1_2\TaskA\week1TaskA\bin\Debug\netcoreapp3.1\week1TaskA.runtimeconfig.json
+C:\Users\jcwt2\OneDrive\Desktop\Alg and data structures\ExerciseWeek1_2\TaskA\week1TaskA\bin\Debug\netcoreapp3.1\week1TaskA.runtimeconfig.dev.json
+C:\Users\jcwt2\OneDrive\Desktop\Alg and data structures\ExerciseWeek1_2\TaskA\week1TaskA\bin\Debug\netcoreapp3.1\week1TaskA.dll
+C:\Users\jcwt2\OneDrive\Desktop\Alg and data structures\ExerciseWeek1_2\TaskA\week1TaskA\bin\Debug\netcoreapp3.1\week1TaskA.pdb
+C:\Users\jcwt2\OneDrive\Desktop\Alg and data structures\ExerciseWeek1_2\TaskA\week1TaskA\obj\Debug\netcoreapp3.1\week1TaskA.csproj.AssemblyReference.cache
+C:\Users\jcwt2\OneDrive\Desktop\Alg and data structures\ExerciseWeek1_2\TaskA\week1TaskA\obj\Debug\netcoreapp3.1\week1TaskA.Form1.resources
+C:\Users\jcwt2\OneDrive\Desktop\Alg and data structures\ExerciseWeek1_2\TaskA\week1TaskA\obj\Debug\netcoreapp3.1\week1TaskA.csproj.GenerateResource.cache
+C:\Users\jcwt2\OneDrive\Desktop\Alg and data structures\ExerciseWeek1_2\TaskA\week1TaskA\obj\Debug\netcoreapp3.1\week1TaskA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcwt2\OneDrive\Desktop\Alg and data structures\ExerciseWeek1_2\TaskA\week1TaskA\obj\Debug\netcoreapp3.1\week1TaskA.AssemblyInfoInputs.cache
+C:\Users\jcwt2\OneDrive\Desktop\Alg and data structures\ExerciseWeek1_2\TaskA\week1TaskA\obj\Debug\netcoreapp3.1\week1TaskA.AssemblyInfo.cs
+C:\Users\jcwt2\OneDrive\Desktop\Alg and data structures\ExerciseWeek1_2\TaskA\week1TaskA\obj\Debug\netcoreapp3.1\week1TaskA.csproj.CoreCompileInputs.cache
+C:\Users\jcwt2\OneDrive\Desktop\Alg and data structures\ExerciseWeek1_2\TaskA\week1TaskA\obj\Debug\netcoreapp3.1\week1TaskA.dll
+C:\Users\jcwt2\OneDrive\Desktop\Alg and data structures\ExerciseWeek1_2\TaskA\week1TaskA\obj\Debug\netcoreapp3.1\week1TaskA.pdb
+C:\Users\jcwt2\OneDrive\Desktop\Alg and data structures\ExerciseWeek1_2\TaskA\week1TaskA\obj\Debug\netcoreapp3.1\week1TaskA.genruntimeconfig.cache

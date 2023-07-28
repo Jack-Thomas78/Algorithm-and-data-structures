@@ -1,0 +1,20 @@
+C:\Users\20101739\OneDrive - MMU\week5TaskB\week5TaskB\bin\Debug\week5TaskB.exe.config
+C:\Users\20101739\OneDrive - MMU\week5TaskB\week5TaskB\bin\Debug\week5TaskB.exe
+C:\Users\20101739\OneDrive - MMU\week5TaskB\week5TaskB\bin\Debug\week5TaskB.pdb
+C:\Users\20101739\OneDrive - MMU\week5TaskB\week5TaskB\obj\Debug\week5TaskB.csprojAssemblyReference.cache
+C:\Users\20101739\OneDrive - MMU\week5TaskB\week5TaskB\obj\Debug\week5TaskB.Form1.resources
+C:\Users\20101739\OneDrive - MMU\week5TaskB\week5TaskB\obj\Debug\week5TaskB.Properties.Resources.resources
+C:\Users\20101739\OneDrive - MMU\week5TaskB\week5TaskB\obj\Debug\week5TaskB.csproj.GenerateResource.cache
+C:\Users\20101739\OneDrive - MMU\week5TaskB\week5TaskB\obj\Debug\week5TaskB.csproj.CoreCompileInputs.cache
+C:\Users\20101739\OneDrive - MMU\week5TaskB\week5TaskB\obj\Debug\week5TaskB.exe
+C:\Users\20101739\OneDrive - MMU\week5TaskB\week5TaskB\obj\Debug\week5TaskB.pdb
+C:\Users\jcwt2\OneDrive\Desktop\Alg and data structures\ExerciseWeek5\TaskB\week5TaskB\week5TaskB\obj\Debug\week5TaskB.csproj.AssemblyReference.cache
+C:\Users\jcwt2\OneDrive\Desktop\Alg and data structures\ExerciseWeek5\TaskB\week5TaskB\week5TaskB\obj\Debug\week5TaskB.Form1.resources
+C:\Users\jcwt2\OneDrive\Desktop\Alg and data structures\ExerciseWeek5\TaskB\week5TaskB\week5TaskB\obj\Debug\week5TaskB.Properties.Resources.resources
+C:\Users\jcwt2\OneDrive\Desktop\Alg and data structures\ExerciseWeek5\TaskB\week5TaskB\week5TaskB\obj\Debug\week5TaskB.csproj.GenerateResource.cache
+C:\Users\jcwt2\OneDrive\Desktop\Alg and data structures\ExerciseWeek5\TaskB\week5TaskB\week5TaskB\obj\Debug\week5TaskB.csproj.CoreCompileInputs.cache
+C:\Users\jcwt2\OneDrive\Desktop\Alg and data structures\ExerciseWeek5\TaskB\week5TaskB\week5TaskB\obj\Debug\week5TaskB.exe
+C:\Users\jcwt2\OneDrive\Desktop\Alg and data structures\ExerciseWeek5\TaskB\week5TaskB\week5TaskB\obj\Debug\week5TaskB.pdb
+C:\Users\jcwt2\OneDrive\Desktop\Alg and data structures\ExerciseWeek5\TaskB\week5TaskB\week5TaskB\bin\Debug\week5TaskB.exe.config
+C:\Users\jcwt2\OneDrive\Desktop\Alg and data structures\ExerciseWeek5\TaskB\week5TaskB\week5TaskB\bin\Debug\week5TaskB.exe
+C:\Users\jcwt2\OneDrive\Desktop\Alg and data structures\ExerciseWeek5\TaskB\week5TaskB\week5TaskB\bin\Debug\week5TaskB.pdb

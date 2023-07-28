@@ -1,0 +1,20 @@
+C:\Users\20101739\source\repos\Week1_2TaskB\Week1_2TaskB\bin\Debug\Week1_2TaskB.exe.config
+C:\Users\20101739\source\repos\Week1_2TaskB\Week1_2TaskB\bin\Debug\Week1_2TaskB.exe
+C:\Users\20101739\source\repos\Week1_2TaskB\Week1_2TaskB\bin\Debug\Week1_2TaskB.pdb
+C:\Users\20101739\source\repos\Week1_2TaskB\Week1_2TaskB\obj\Debug\Week1_2TaskB.csprojAssemblyReference.cache
+C:\Users\20101739\source\repos\Week1_2TaskB\Week1_2TaskB\obj\Debug\Week1_2TaskB.Form1.resources
+C:\Users\20101739\source\repos\Week1_2TaskB\Week1_2TaskB\obj\Debug\Week1_2TaskB.Properties.Resources.resources
+C:\Users\20101739\source\repos\Week1_2TaskB\Week1_2TaskB\obj\Debug\Week1_2TaskB.csproj.GenerateResource.cache
+C:\Users\20101739\source\repos\Week1_2TaskB\Week1_2TaskB\obj\Debug\Week1_2TaskB.csproj.CoreCompileInputs.cache
+C:\Users\20101739\source\repos\Week1_2TaskB\Week1_2TaskB\obj\Debug\Week1_2TaskB.exe
+C:\Users\20101739\source\repos\Week1_2TaskB\Week1_2TaskB\obj\Debug\Week1_2TaskB.pdb
+C:\Users\jcwt2\OneDrive\Desktop\Alg and data structures\ExerciseWeek1_2\TaskB\Week1_2TaskB\Week1_2TaskB\bin\Debug\Week1_2TaskB.exe.config
+C:\Users\jcwt2\OneDrive\Desktop\Alg and data structures\ExerciseWeek1_2\TaskB\Week1_2TaskB\Week1_2TaskB\bin\Debug\Week1_2TaskB.exe
+C:\Users\jcwt2\OneDrive\Desktop\Alg and data structures\ExerciseWeek1_2\TaskB\Week1_2TaskB\Week1_2TaskB\bin\Debug\Week1_2TaskB.pdb
+C:\Users\jcwt2\OneDrive\Desktop\Alg and data structures\ExerciseWeek1_2\TaskB\Week1_2TaskB\Week1_2TaskB\obj\Debug\Week1_2TaskB.csproj.AssemblyReference.cache
+C:\Users\jcwt2\OneDrive\Desktop\Alg and data structures\ExerciseWeek1_2\TaskB\Week1_2TaskB\Week1_2TaskB\obj\Debug\Week1_2TaskB.Form1.resources
+C:\Users\jcwt2\OneDrive\Desktop\Alg and data structures\ExerciseWeek1_2\TaskB\Week1_2TaskB\Week1_2TaskB\obj\Debug\Week1_2TaskB.Properties.Resources.resources
+C:\Users\jcwt2\OneDrive\Desktop\Alg and data structures\ExerciseWeek1_2\TaskB\Week1_2TaskB\Week1_2TaskB\obj\Debug\Week1_2TaskB.csproj.GenerateResource.cache
+C:\Users\jcwt2\OneDrive\Desktop\Alg and data structures\ExerciseWeek1_2\TaskB\Week1_2TaskB\Week1_2TaskB\obj\Debug\Week1_2TaskB.csproj.CoreCompileInputs.cache
+C:\Users\jcwt2\OneDrive\Desktop\Alg and data structures\ExerciseWeek1_2\TaskB\Week1_2TaskB\Week1_2TaskB\obj\Debug\Week1_2TaskB.exe
+C:\Users\jcwt2\OneDrive\Desktop\Alg and data structures\ExerciseWeek1_2\TaskB\Week1_2TaskB\Week1_2TaskB\obj\Debug\Week1_2TaskB.pdb
